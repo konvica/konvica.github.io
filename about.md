@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+**Machine Learning Developer, Data Scientist, Data Engineer, Data Analyst**
+
+I develop End-to-End Machine Learning solutions, perform statistical analysis and econometric modelling. I engage in every step of the Machine Learning lifecycle, e.g. business understanding, data wrangling, model training, deployment, etc. I am able to work without close supervision and collaborate with a team. I have a Master’s degree in Applied Mathematics.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please check out my CV 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Linkedin](www.linkedin.com/in/matus-kosik-630471144)
+[kosajk@gmail.com](mailto:kosajk@gmail.com)
