@@ -15,6 +15,6 @@ Please check out my CV [here]({{ site.baseurl }}/resume.pdf)
 
 ### Contact me
 
-[Linkedin](www.linkedin.com/in/matus-kosik-630471144)
+[Linkedin](https://www.linkedin.com/in/matus-kosik-630471144)
 
 [kosajk@gmail.com](mailto:kosajk@gmail.com)
