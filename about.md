@@ -48,7 +48,11 @@ We looked for valuable insights from the Customer Relation Management (CRM) data
 ###### Effectivity of healthcare providers based on economic data
 We calculated the economic effectivity of healthcare using Data Envelopment Analysis (DEA). DEA models estimate an effectivity frontier by optimizing input and output matrices for each subject in analysis. DEA was done using `numpy` and `scipy.optimize`, data manipulation with `pyspark`. 
 
+###### Bill of Materials (BOM) checking
+Learning patterns from correct examples to find mistakes in new designs. [Read more]({{ site.baseurl }}/BOMvalidator)
 
+###### Geospatial analytics of Industry machinery and vehicles
+Company developing IoT devices to collect data from Industry machines including GPS coordinates looks to expand the analytics of the data. Clustering the location points to classify if the vehicle is working or detect construction sites and more. [Read more]({{ site.baseurl }}/GeoAnalytics)
 
 
 
