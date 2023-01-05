@@ -4,11 +4,11 @@ title: Geospatial analytics
 ---
 
 With the rise of IoT, GPS tracking is more available. Take for example a transport vehicle moving some materials. The geolocation data can tell us more than just where the vehicle is. Using geospatial analytics we can observe the mobility patterns of the vehicle. Clustering the data results in places where the vehicle stopped for work or parking. Geospatial analytics can tell us if the vehicle is working, find the optimal route, spot any unusual behaviour of the vehicle (e.g. unexpected stop), what materials are where and much more. 
-<div align="center">
-    <div float="left" align="center">
+<div style="align:center;">
+    <div style="float: left; align: center;">
         <img src="/images/sites_orig.png" width="300"/>
     </div>
-    <div align="center">
+    <div style="align: center;">
         <img src="/images/traj.gif" width="300"/>
     </div>
 </div>
