@@ -289,6 +289,17 @@ footer {
   text-align: center;
 }
 
+.imgSide {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250;
+    width: 350;
+}
+
+#imgSideContainer{
+    text-align:center;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
